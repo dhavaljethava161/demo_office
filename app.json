@@ -1,0 +1,14 @@
+{
+  "name": "Dhaval",
+  "email": "dhaval123@gmail.com",
+  "password": "Dhaval@123",
+  "number": "7048324593",
+  "dob": "2000-03-01",
+  "address": {
+    "address": "saroli",
+    "area": "saroli",
+    "state": "gujarat",
+    "pincode": 395010
+  },
+  "userType": "hod"
+}
